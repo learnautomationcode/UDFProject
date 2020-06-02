@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="41488" started-at="2020-06-01T18:24:54 IST" finished-at="2020-06-01T18:25:36 IST">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="41488" started-at="2020-06-01T18:24:54 IST" finished-at="2020-06-01T18:25:36 IST">
+      <class name="testcases.UDFDemo">
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.UDFDemo@1068e947]" name="init" is-config="true" duration-ms="9317" started-at="2020-06-01T18:24:54 IST" finished-at="2020-06-01T18:25:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:testcases.UDFDemo@1068e947]" name="Login" duration-ms="6871" started-at="2020-06-01T18:25:04 IST" finished-at="2020-06-01T18:25:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="init()[pri:0, instance:testcases.UDFDemo@1068e947]" name="init" is-config="true" duration-ms="6504" started-at="2020-06-01T18:25:13 IST" finished-at="2020-06-01T18:25:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="searchUser()[pri:0, instance:testcases.UDFDemo@1068e947]" name="searchUser" duration-ms="15847" started-at="2020-06-01T18:25:19 IST" finished-at="2020-06-01T18:25:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchUser -->
+      </class> <!-- testcases.UDFDemo -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>
